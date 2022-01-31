@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Storme.IO](https://storme.io)
 
-- 🌱 I’m currently learning **Laravel, React, Symfony**
+- 🌱 I’m currently learning **Laravel, VueJS, React, Symfony**
 
 - 👨‍💻 All of my projects are available at [https://thomas.drumont.dev](https://thomas.drumont.dev)
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel & VueJS**
 
 - 📫 How to reach me **me@hvs.cx**
 
